@@ -12,7 +12,7 @@ export default new Router({
     name: 'Home',
     component: Home
   }, {
-    path: '/tab',
+    path: '/a',
     name: 'HomeTab',
     component: HomeTab
   }, {
